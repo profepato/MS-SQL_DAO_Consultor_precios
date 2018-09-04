@@ -25,7 +25,7 @@ namespace MS_SQL_DAO_Consultor_precios.Model {
         }
 
         public DataTable Read() {
-            return Ejecutar("SELECT * FROM Productos");
+            return Ejecutar("SELECT * FROM Productos ORDER BY 'Descripción'");
         }
 
         public void Update(Producto ob) {

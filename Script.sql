@@ -35,3 +35,8 @@ SELECT * FROM Productos;
 USE master;
 DROP DATABASE consultor_precios;
 /*Drop database*/
+
+
+/*DROP VIEW*/
+DROP VIEW Productos;
+/*DROP VIEW*/
