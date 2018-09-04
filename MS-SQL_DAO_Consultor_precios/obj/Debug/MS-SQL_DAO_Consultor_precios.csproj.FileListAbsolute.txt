@@ -1,0 +1,10 @@
+C:\Users\PREZ\Desktop\MS-SQL_DAO_Consultor_precios\MS-SQL_DAO_Consultor_precios\bin\Debug\MS-SQL_DAO_Consultor_precios.exe.config
+C:\Users\PREZ\Desktop\MS-SQL_DAO_Consultor_precios\MS-SQL_DAO_Consultor_precios\bin\Debug\MS-SQL_DAO_Consultor_precios.exe
+C:\Users\PREZ\Desktop\MS-SQL_DAO_Consultor_precios\MS-SQL_DAO_Consultor_precios\bin\Debug\MS-SQL_DAO_Consultor_precios.pdb
+C:\Users\PREZ\Desktop\MS-SQL_DAO_Consultor_precios\MS-SQL_DAO_Consultor_precios\obj\Debug\MS-SQL_DAO_Consultor_precios.csprojAssemblyReference.cache
+C:\Users\PREZ\Desktop\MS-SQL_DAO_Consultor_precios\MS-SQL_DAO_Consultor_precios\obj\Debug\MS_SQL_DAO_Consultor_precios.Form1.resources
+C:\Users\PREZ\Desktop\MS-SQL_DAO_Consultor_precios\MS-SQL_DAO_Consultor_precios\obj\Debug\MS_SQL_DAO_Consultor_precios.Properties.Resources.resources
+C:\Users\PREZ\Desktop\MS-SQL_DAO_Consultor_precios\MS-SQL_DAO_Consultor_precios\obj\Debug\MS-SQL_DAO_Consultor_precios.csproj.GenerateResource.cache
+C:\Users\PREZ\Desktop\MS-SQL_DAO_Consultor_precios\MS-SQL_DAO_Consultor_precios\obj\Debug\MS-SQL_DAO_Consultor_precios.csproj.CoreCompileInputs.cache
+C:\Users\PREZ\Desktop\MS-SQL_DAO_Consultor_precios\MS-SQL_DAO_Consultor_precios\obj\Debug\MS-SQL_DAO_Consultor_precios.exe
+C:\Users\PREZ\Desktop\MS-SQL_DAO_Consultor_precios\MS-SQL_DAO_Consultor_precios\obj\Debug\MS-SQL_DAO_Consultor_precios.pdb
